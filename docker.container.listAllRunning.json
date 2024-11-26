@@ -1,0 +1,5 @@
+{
+    "command": "docker ps",
+    "Title": "Docker >> Container >> List all running",
+    "Description": "Lists all running containers"
+}
